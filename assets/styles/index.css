@@ -1,1 +1,13 @@
-/* estilos da pagina */
+section#iPhone {
+  
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+
+img#white {
+    position: relative;
+        left: 5em;
+        top: -32em;
+}
