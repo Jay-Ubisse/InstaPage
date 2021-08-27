@@ -1,13 +1,79 @@
-section#iPhone {
-  
-    width: 30%;
-    margin-left: 30%;
-    margin-top: 5%;
+html {
+    background-color: #F4F3EE;
 }
 
+section#iPhone {
+    width: 32%;
+    position: absolute;
+        left: 26em;
+        top:3em;
+    height: 600px;
+}
+
+section#login {
+    background-color: #F4F3EE;
+    width: 25%;
+    position: absolute;
+        left: 54em;
+        top: 3em;
+    text-align: center;    
+}
+
+section#login p {
+    margin: 10px 0 10px 0;
+}
+
+section#login h1 {
+    margin: 10px 0 40px 0;
+}
+
+section div {
+    margin: 0 0 10px 0;
+    padding: 15px 0 15px 0;
+    background-color: #FFFFFF;
+}
 
 img#white {
-    position: relative;
-        left: 5em;
-        top: -32em;
+    position: absolute;
+        left:5em;
+        top: 1.5em;
+}
+
+img#black {
+    position: absolute;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+    background-color: #F4F3EE;
+}
+
+input.sub {
+    width: 72%;
+    background-color: #4267B2;
+    color: #FFFFFF;
+}
+
+p#fb {
+    color: #4267B2;
+}
+p#fgt {
+    color: #4267B2;
+    font-size: .9em;
+}
+
+img#fblogo {
+    width: 7%;
+    height: 7%;
+}
+
+span {
+    color: #4267B2;
+}
+
+img.store {
+    width: 40%;
+    height: 40%;
+    margin: 0 0 0 5px;
 }
