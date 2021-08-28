@@ -1,3 +1,4 @@
-/* colocar aqui formatacoes gerais de fontes
- * Tamanho, cores, peso, etc.
- */
+@font-face {
+    font-family: "The Rich Family";
+    src: url(../fonts/The\ Rich\ Family\ Font.otf);
+}
